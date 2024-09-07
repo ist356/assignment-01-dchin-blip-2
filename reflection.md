@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+It has been a while since I used Git and had to set up an environment on a new computer (usual one broke). I learned how to add things to the PATH variable through the Control Panel and  refreshed my knowledge of Git. Something I didn't know how to do was create a dedicated test folder and use the testing suite in VSC. Normally, I would just use print statements or test cases built into the code. 
